@@ -3,9 +3,9 @@
 
 <body onload="startTime()">
 
-<h1>Phatsakorn Sawisist</h1>
-<h2>OMN - No.24</h2>
-<h3>Surathumpitak School</h3>
+<h1>Phatsakorn Sawisit</h1>
+<h2>OMN - NO.24</h2>
+<h3>Surathumpitak Sahool</h3>
 
 <div id="txt"></div>
 
