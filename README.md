@@ -4,7 +4,7 @@
 <body onload="startTime()">
 
 <h1>Phatsakorn Sawisit</h1>
-<h2>OMN - NO.24</h2>
+<h2>Puter - NO.24</h2>
 <h3>Surathumpitak Sahool</h3>
 
 <div id="txt"></div>
